@@ -14,6 +14,6 @@ Hello! I'm Ale Roses, a frontend developer in training passionate about creating
 
 ## Contact
 
-I'm excited to connect with other developers! If you have any questions, suggestions, or just want to chat, you can find me on ✨[LinkedIn](www.linkedin.com/in/ale-roses). I'm open to collaborations and opportunities to continue growing as a frontend developer.
+I'm excited to connect with other developers! If you have any questions, suggestions, or just want to chat, you can find me on ✨[LinkedIn](https://www.linkedin.com/in/ale-roses/). I'm open to collaborations and opportunities to continue growing as a frontend developer.
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. See you soon!
