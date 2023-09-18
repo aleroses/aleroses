@@ -6,24 +6,8 @@ Hello! I'm Ale Roses, a frontend developer in training passionate about creating
 
 ## Technologies
 
-```mermaid
-graph TB
-    %% Add the following line to set the background color %%
-    linkStyle default fill:#4f46e5, stroke:#4f46e5
-    
-    subgraph Project
-    style Project fill:#090b10, stroke:#4f46e5
-    HTML(HTML) --> CSS(CSS) --> JavaScript(JavaScript)
-    JavaScript --> TypeScript(TypeScript)
-    JavaScript --> React(React)
-    end
-
-    style HTML fill:#0C134F, stroke:#0C134F
-    style CSS fill:#1D267D, stroke:#1D267D
-    style JavaScript fill:#5C469C, stroke:#5C469C
-    style TypeScript fill:#AD7BE9, stroke:#AD7BE9
-    style React fill:#F266AB, stroke: #F266AB
-```
+|HTML 🌐|CSS 🎨|JavaScript 🚀|TypeScript 🆕|React ⚛️|🌱|
+|-------|-------|-------------|--------------|--------|-|
 
 ## Contact
 
