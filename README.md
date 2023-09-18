@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**aleroses/aleroses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Ale Roses, a frontend developer in training passionate about creating incredible web applications. I'm constantly learning and exploring new technologies to improve my skills and knowledge. My goal is to become an expert in frontend development and contribute to exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- HTML: 🌐
+- CSS: 🎨
+- JavaScript: 🚀
+- TypeScript: 🆕
+- React: ⚛️
+
+## Contact
+
+I'm excited to connect with other developers! If you have any questions, suggestions, or just want to chat, you can find me on ✨[LinkedIn](www.linkedin.com/in/ale-roses). I'm open to collaborations and opportunities to continue growing as a frontend developer.
+
+Thank you for visiting my GitHub profile! I hope you find something interesting here. See you soon!
